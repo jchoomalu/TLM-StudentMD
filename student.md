@@ -20,17 +20,16 @@
 
 1. **Assignment operators** assign a value to a variable. 
         assign a variable (=)
-
-        ```js 
-        let color = 'magenta';
-        ```
+```js
+let color = 'magenta';
+```
 
 2. **String operators** combine strings. concatenation
         concatenate (+) 
 
-        ```js
-        let greeting = 'Hello ' + 'world!';
-        ```
+```js
+let greeting = 'Hello ' + 'world!';
+```
 
 3. **Arithmetic operators** perform basic math. 
         Addition (+)
@@ -39,13 +38,13 @@
         Division (/)
         Modulus (%) - Returns the remainder of a division
 
-        ```js
-        let addNums = 2 + 2; // 4
-        let subtractNums = 5 - 3 // 2
-        let multilpyNums = 2 * 2; // 4
-        let divideNums = 10 / 3; // 3.3333333333
-        let remainder = 10 % 3; // 1
-        ```
+```js
+let addNums = 2 + 2; // 4
+let subtractNums = 5 - 3 // 2
+let multilpyNums = 2 * 2; // 4
+let divideNums = 10 / 3; // 3.3333333333
+let remainder = 10 % 3; // 1
+```
 
 4. **Comparison operators** compare two values and return a true or false.
         Equal to (== or ===)
@@ -55,24 +54,24 @@
         Greater than or equal to (>=)
         Less than or equal to (<=)
 
-        ```js
-        let thisIsTruthy = "1" == 1; //true
-        let thisIsFalsy = "3" === 3; //false
-        let greater = 5 > 2; // true
-        let lesser = 5 < 3; //false
-        let greaterOrEqual = 5 >= 5; // false
-        let lesserOrEqual = 5 <= 5; // true
-        ``` 
+```js
+let thisIsTruthy = "1" == 1; //true
+let thisIsFalsy = "3" === 3; //false
+let greater = 5 > 2; // true
+let lesser = 5 < 3; //false
+let greaterOrEqual = 5 >= 5; // false
+let lesserOrEqual = 5 <= 5; // true
+ ``` 
 
 5. **Logical operators** combine expressions and return a Boolean value of T or F
         AND (&&)
         OR (||)
         NOT (!)
 
-        ```js
-        let combinedExpressions = (3 <= 8) || (6 < 4); //true
-        let flipFlop = !true // false
-        ```
+```js
+let combinedExpressions = (3 <= 8) || (6 < 4); //true
+let flipFlop = !true // false
+```
 
 **Quiz Question** 
 
